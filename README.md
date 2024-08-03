@@ -1,2 +1,1 @@
-# gulimail
-gulimail
+# 微盟电子商城
